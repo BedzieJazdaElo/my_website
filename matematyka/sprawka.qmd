@@ -1,8 +1,16 @@
+---
+title: "gówno"
+format: 
+  html: default
+  docx: default
+---
+
+
 # to 
 
  nie jest 
 
- ## takie 
+## takie 
 
  fajne 
 
