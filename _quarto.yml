@@ -16,7 +16,6 @@ website:
     contents: auto
     collapse-level: 3
   back-to-top-navigation: true
-  page-navigation: true
 
 format:
   html:
