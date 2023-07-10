@@ -9,13 +9,14 @@ website:
     background: primary
     collapse: true
     left:
-    
       - href: index.qmd
         text: Home
       - about.qmd
   sidebar: 
     contents: auto
     collapse-level: 3
+  back-to-top-navigation: true
+  page-navigation: true
 
 format:
   html:
