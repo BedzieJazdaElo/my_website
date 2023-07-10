@@ -3,3 +3,15 @@ title: "About"
 ---
 
 About this site
+
+# wstep
+
+dasdasdasda
+
+# zadania
+
+:::{#thm-1}
+
+cale te
+
+:::
