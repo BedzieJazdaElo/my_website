@@ -11,6 +11,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  sidebar: 
+    contents: auto
+    collapse-level: 3
 
 format:
   html:
@@ -18,7 +21,6 @@ format:
     css: styles.css
     toc: true
     lang: pl
-  pdf: default
 
 
 

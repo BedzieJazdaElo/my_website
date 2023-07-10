@@ -11,7 +11,7 @@ dasdasdasda
 # zadania
 
 :::{#thm-1}
-\\
+\newline
 cale te
 
 :::
